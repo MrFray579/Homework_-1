@@ -1,0 +1,15 @@
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/bin/Debug/net6.0/Min_Max2
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/bin/Debug/net6.0/Min_Max2.deps.json
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/bin/Debug/net6.0/Min_Max2.runtimeconfig.json
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/bin/Debug/net6.0/Min_Max2.dll
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/bin/Debug/net6.0/Min_Max2.pdb
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.csproj.AssemblyReference.cache
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.GeneratedMSBuildEditorConfig.editorconfig
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.AssemblyInfoInputs.cache
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.AssemblyInfo.cs
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.csproj.CoreCompileInputs.cache
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.dll
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/refint/Min_Max2.dll
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.pdb
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/Min_Max2.genruntimeconfig.cache
+/home/fray579/Рабочий стол/GB/HomeWork_C#/Min_Max2/obj/Debug/net6.0/ref/Min_Max2.dll
