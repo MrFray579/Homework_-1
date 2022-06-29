@@ -6,5 +6,5 @@ int i = 0;
 while (i < a - 1)
 {
     i += 2;
-    Console.WriteLine(i);
+    Console.Write(i + ",");
 }
